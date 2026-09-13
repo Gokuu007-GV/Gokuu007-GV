@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gokul%20Velu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Electronics%20and%20Communication%20Engineering&descSize=18&descAlignY=55&textBg=false"/>
+![Header](https://kommodo.ai/i/v4WyMDLJeY9ip0LNHLjH.png)
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gokul%20Velu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Electronics%20and%20Communication%20Engineering&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building%20today%20what%20I%20imagined%20Yesterday" alt="Typing introduction" />
