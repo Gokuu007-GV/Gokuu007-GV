@@ -28,12 +28,12 @@
 
  ## Tech Stack
  - Python • C • C++
- - 
+   
  ## Interests
  - Electronics • AI\ML • Embedded Systems •Data Analytics
 
  ## Designing
- - Adobe Creating Cloud • Canva •
+ - Adobe Creating Cloud • Canva 
 
  ## Tools & Platforms
  - Github • VS Code • Android Studio
