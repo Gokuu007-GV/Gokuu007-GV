@@ -1,27 +1,86 @@
-# 💫 About Me:
-🎓 Electronics & Communication Engineering Student<br>🤖 Exploring Artificial Intelligence & Machine Learning<br>🔌 Interested in IoT & Embedded Systems<br>💻 Learning and building with Python<br>📊 Exploring Data Analytics<br>🛠️ Currently working on real-world projects<br>🌱 Always learning something new<br>🤝 Open to collaboration and interesting projects
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gokul%20Velu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Electronics%20and%20Communication%20Engineering&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building%20today%20what%20I%20imagined%20Yesterday" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Gokuu007-GV">
+    <img src="https://komarev.com/ghpvc/?username=Gokuu007-GV&label=Profile%20views&color=00FFFF&style=flat-square" alt="Gokuu007-GV's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🎓 Electronics & Communication Engineering Student
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🔌 Interested in IoT & Embedded Systems
+- 💻 Learning and building with Python
+- 📊 Exploring Data Analytics
+- 🛠️ Currently working on real-world projects
+- 🌱 Always learning something new
+- 🤝 Open to collaboration and interesting projects
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gokul-velu-a59bb6375/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Gokul Velu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokulvelu31107@gmail.com) 
+## 🧠 My Focus Areas
+- AI/ML • IoT • Embedded Systems • Python • Electronics • Data Analytics
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gokul Velu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gokul Velu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gokul Velu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gokul Velu&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Gokuu007-GV">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gokuu007-GV&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Gokuu007-GV's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Gokuu007-GV&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Gokuu007-GV's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Gokuu007-GV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Gokul Velu's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Gokuu007-GV&theme=tokyonight&radius=10" alt="Gokuu007-GV's Activity Graph" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=Gokul Velu&icon=8&color=1)](https://visitcount.itsvg.in)
+## 🛠️ Languages & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gokuu007-GV">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gokuu007-GV&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokul-velu-a59bb6375/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:gokulvelu31107@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
 
 
