@@ -12,7 +12,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+##  About Me
 - 🎓 Electronics & Communication Engineering Student
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🔌 Interested in IoT & Embedded Systems
@@ -23,11 +23,23 @@
 - 🤝 Open to collaboration and interesting projects
 
 
-## 🧠 My Focus Areas
+##  My Focus Areas
 - AI/ML • IoT • Embedded Systems • Python • Electronics • Data Analytics
 
+ ## Tech Stack
+ - Python • C • C++
+ - 
+ ## Interests
+ - Electronics • AI\ML • Embedded Systems •Data Analytics
 
-## 📊 GitHub Stats & Trophies
+ ## Designing
+ - Adobe Creating Cloud • Canva •
+
+ ## Tools & Platforms
+ - Github • VS Code • Android Studio
+
+
+##  GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Gokuu007-GV">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gokuu007-GV&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Gokuu007-GV's GitHub Stats" />
